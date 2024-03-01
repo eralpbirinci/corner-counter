@@ -1,0 +1,48 @@
+body {
+    background-image: url("corner.jpg");
+    background-size: cover;
+    font-family: "Graduate", serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+#counter {
+    width: 300px;
+    background-color: whitesmoke;
+    opacity: 0.83;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family: "Graduate", serif;
+}
+
+#increment-btn {
+    background:  #60b922;
+}
+
+#save-btn {
+    background: black;
+}
+
